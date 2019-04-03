@@ -9,6 +9,10 @@ public class HelloWorld
   public void print(){
    System.out.println("Print Method"); 
   }
+  
+  public void show(){
+    System.out.println("show method ");
+  }
 }
 
  
