@@ -4,8 +4,11 @@ public class HelloWorld
     System.out.println("Hello World..!");
     System.out.println("GitHub Account");
     
+    
+  }
+  public void print(){
+   System.out.println("Print Method"); 
   }
 }
 
-
-Thanks you
+ 
